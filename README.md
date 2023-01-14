@@ -1,6 +1,6 @@
-# Tienda Casimia(E-commerce)
+# Tienda framework(E-commerce)
 > Final Project Comision 43620
-> Live demo [_here_](https://rustydroid.github.io/projectjs/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://github.com/rustydroid/tienda-framework/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -24,16 +24,22 @@
 - HTML 5
 - CSS3
 - Bootstrap
+- Bootstrap Icons
 - Javascript
+- Vite
 - ReactJS
+- Firebase
+
 
 
 ## Features
 List the ready features here:
 - Navbar responsive
 - Cart icon with badge to track items in cart
-- Login icon to grant user access
-- Welcome message in ItemList section
+- Item List section
+- Item Detail section
+- Cart section
+- Checkout section
 
 
 ## Project Status
