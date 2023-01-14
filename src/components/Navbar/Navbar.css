@@ -1,0 +1,16 @@
+.icon-shopping-bag:before {
+    content: "\f290";
+  }
+  .shopingicons{
+   float:right;
+    
+  }
+
+.icon-login-user:before {
+    content: "\f290";
+  }
+  .loginicons{
+   float:right;
+    
+  }
+
